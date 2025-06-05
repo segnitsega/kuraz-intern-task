@@ -34,7 +34,7 @@ Designed to demonstrate backend development fundamentals as part of an internshi
     npm install
 3. **Create a .env file with the following variables:**
     ```bash
-    MONGODB_URI=mongodb+srv://segnitsega6:B2WVwiCga14DR3uB@cluster0.rteynjk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    MONGODB_URI=mongodb+srv://segnitsega6:B2WVwiCga14DR3uB@cluster0.rteynjk.mongodb.net/taskManagement?retryWrites=true&w=majority&appName=Cluster0
     PORT=5000
 4. **Run the server**
     ```bash
